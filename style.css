@@ -2,9 +2,26 @@ body{
 
 color: whitesmoke;
 background-color: #1C1C1C;
+}
 
+header{
+    border-bottom: solid 2px #a17a32;
+    margin: 20px;
+    font-size: 32px;
+    color: white;
 
+}
 
+section{
 
+padding-bottom: 80px;
+padding-top: 80px;
+background: #1C1C1C;
+display: flex;
+justify-content: center;
+}
 
+h1{
+
+    padding: 600px;
 }
